@@ -2,7 +2,7 @@
 
 # Countries (Markets) w Highest Revenue
 
-### Click to view interactive dashboard
+### Click "Dashboard" to view interactive dashboard
 
 [Dashboard](https://public.tableau.com/app/profile/chadwick.jeanmary/viz/OnlineRetailData_17034960484540/Dashboard6)
 
@@ -17,7 +17,7 @@
 
 # UK (Biggest Market) Revenue Analytics
 
-### Click to view interactive dashboard
+### Click "Dasboard" to view interactive dashboard
 
 [Dashboard](https://public.tableau.com/app/profile/chadwick.jeanmary/viz/OnlineRetailData_17034960484540/Dashboard12)
 
@@ -35,7 +35,7 @@
 
 # Revenue Trends in Biggest Markets (Except UK)
 
-### Click "Dashboard" to view dashboard
+### Click "Dashboard" to view interactive dashboard
 
 [Dashboard](https://public.tableau.com/app/profile/chadwick.jeanmary/viz/OnlineRetailData_17034960484540/Dashboard7)
 
@@ -56,7 +56,7 @@
 
 # Revenue Trend in Mid-Sized Markets
 
-### Click "Dashboard" to view dashboard
+### Click "Dashboard" to view interactive dashboard
 
 [Dashboard](https://public.tableau.com/app/profile/chadwick.jeanmary/viz/OnlineRetailData_17034960484540/Dashboard10)
 
@@ -79,5 +79,83 @@
 
 
 -Bottom right represents a pie chart that represents the diversity of each performance metric. It is shown that there are more countries that have a downward trend in revenue than there are those with an upward trend in revenue. There are even more countries with no latest trend whatsoever. 
+
+
+# Revenue Trend in Smallest Markets
+
+### Click "Dashboard" to view interactive dashboard
+
+[Dashboard](https://public.tableau.com/app/profile/chadwick.jeanmary/viz/OnlineRetailData_17034960484540/Dashboard8)
+
+![image](https://github.com/user-attachments/assets/54d3a440-b15d-475e-85d7-caa17d317605)
+
+
+-Consists the countries that generate the smallest amout of revenue possible. They consist of Behrain, Czech Republic, Lithuania, and Saudi Arabia.
+
+
+# Total Number of Well Performing, and Terrible Performing Markets
+
+### Click "Dashboard to view interactive dashboard
+
+[Dashboard](https://public.tableau.com/app/profile/chadwick.jeanmary/viz/OnlineRetailData_17034960484540/Dashboard11)
+
+![image](https://github.com/user-attachments/assets/06808ac4-9c33-46c7-a3c5-7dc37b8f1769)
+
+
+-Shows the total numbers of well performing, terrible performing, and and no data countries.
+
+
+-This dashboard serves as a summarization of each countries which are grouped by their performance. Hence there are more countries that are performing horrible and even more that has no recent data.
+
+
+# Most Grossing Products per Country
+
+### Click "Dashboard to view interactive dashboard
+
+[Dashboard](https://public.tableau.com/app/profile/chadwick.jeanmary/viz/OnlineRetailData_17034960484540/Dashboard5)
+
+![image](https://github.com/user-attachments/assets/0d18fb22-24d5-4bd7-9209-73bcd4de2451)
+
+
+-This dashboards shows which item contributes to the most revenue growth in each country.
+
+
+-The UK market is shown on top becasue it serves as our most largest market.
+
+
+# Number of Items Bought per Country
+
+### Click "Dashboard" to view interactive dashboard
+
+[Dashboard](https://public.tableau.com/app/profile/chadwick.jeanmary/viz/OnlineRetailData_17034960484540/Dashboard2)
+
+![image](https://github.com/user-attachments/assets/ddf53f4f-d97b-4527-be81-e13306494a8a)
+
+
+# Top 5 Visiting Customers w Popularity of Items Bought per Customer
+
+### Click "Dashboard to view dashboard
+
+[Dashboard](https://public.tableau.com/app/profile/chadwick.jeanmary/viz/OnlineRetailData_17034960484540/Dashboard13)
+
+![image](https://github.com/user-attachments/assets/0f24a3b9-5e22-4c86-b44b-069248062493)
+
+-Shows the top 5 frequently visiting customers per each country. It is represented as "Count of Customer ID".
+
+-The bottom shows the analystics of each item represented as each unique color corresponding to each customer per country. The label/number is shown on each colored area of each bar representing the number of distinct items present for each customer, indicating each item's popularity.
+
+-It appears that "Set of Items" is the most popular item being bought for each customer. We can also make an inference that these customers are most likely to by it considering the fact that it is the most popular item being bought.
+
+-Optimized in a way so that users can easily read and understand the data by filtering the analysis by selecting which country the user would like to see the analysis.
+
+
+# Customer Retention (Future Predictions)
+
+### Click "Dashboard to view interactive dashboard
+
+[Dashboard](https://public.tableau.com/app/profile/chadwick.jeanmary/viz/OnlineRetailData_17034960484540/Dashboard9)
+
+![image](https://github.com/user-attachments/assets/dfae89ca-fdd0-4cac-a994-21523f523266)
+
 
 
