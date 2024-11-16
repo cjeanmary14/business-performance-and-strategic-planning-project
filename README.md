@@ -128,6 +128,10 @@
 
 -Consists the countries that generate the smallest amout of revenue possible. They consist of Behrain, Czech Republic, Lithuania, and Saudi Arabia.
 
+-Even in the smallest markets, there are more countries with revenue that are decresing. There are markets that don't have any latest data (Nov-Dec) like Lithuana and Saudi Arabia. And there are countries with our eCommerce store that have actually started not to long ago, e.i, these stores these countries like Czech Republic, Lithuana, and Saudi Arabia seem to have only lasted about a month or two. If there is no recorded data since its last recorded revenue data which is a decrease, it must be the likelihood that it has failed.
+
+-We can also see that the downward trend in these countries have decreased dramatically as in somewhere around the 80s to upper 90s percent.
+
 
 # Total Number of Well Performing, and Terrible Performing Markets
 
@@ -152,11 +156,15 @@
 
 ![image](https://github.com/user-attachments/assets/0d18fb22-24d5-4bd7-9209-73bcd4de2451)
 
+-Here we move on to the demographics portion of the presentation.
+
 
 -This dashboards shows which item contributes to the most revenue growth in each country.
 
 
 -The UK market is shown on top becasue it serves as our most largest market.
+
+-This data shows that "Set of Items" contribute more to revenue growth amongst all countries no matter big or small.
 
 
 # Number of Items Bought per Country
@@ -166,6 +174,10 @@
 [Dashboard](https://public.tableau.com/app/profile/chadwick.jeanmary/viz/OnlineRetailData_17034960484540/Dashboard2)
 
 ![image](https://github.com/user-attachments/assets/ddf53f4f-d97b-4527-be81-e13306494a8a)
+
+-Here, we can see the demographics of each countries from the most popular items being bought, and the least popular items being bought.
+
+-Anongst all countries, "Set of Items" appear to be the most popular.
 
 
 # Top 5 Visiting Customers w Popularity of Items Bought per Customer
