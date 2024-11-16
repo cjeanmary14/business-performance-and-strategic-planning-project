@@ -1,5 +1,11 @@
 # Business Performance & Strategic Planning Project
 
+# About Project
+
+-Management wants to identify the major factors contributing to revenue, and plan strategically for next year.
+
+-This project displays revenue trend for each market, as well as displaying customer retention, customer/marketing demographics, overall performance and projected performance which will provide valuable insights into what areas are performing well and what areas need improvement. From there, this can help stakeholders form solutions to plan for the upcoming year.
+
 # Objective
 
 -The online retail store wants to view their data and provide insights to the CEO and CMO. The management wants to identify the major factors contributing to revenue and plan strategically for next year. They want to view metrics from both operations and marketing perspectives and seek guidance on areas performing well. They also want to view demographic-based metrics.
