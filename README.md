@@ -1,5 +1,35 @@
 # Business Performance & Strategic Planning Project
 
+# Objective
+
+-The online retail store wants to view their data and provide insights to the CEO and CMO. The management wants to identify the major factors contributing to revenue and plan strategically for next year. They want to view metrics from both operations and marketing perspectives and seek guidance on areas performing well. They also want to view demographic-based metrics.
+
+# Goals
+
+-Convey data in a way that shows metrics from both operations and marketing perspectives, and provide guidence on areas performing well.
+
+-Provide analytics and insights to evaluate the current business performance and suggest metrics for expansion.
+
+-Identify key drivers of revenue growth.
+
+# What We Will Take a Look At
+
+-In order to achieve our goal, and present our insights, we would have to take a look at the following in our analytics:
+
+      1.) Revenue Analysis
+
+      2.) Top Performing Catergories
+
+      3.) Top Performing Markets (Regions)
+
+      4.) Customer Analytics and Segmentation
+
+# Data Preparation Process
+
+-[Click Here](https://github.com/cjeanmary14/business-performance-and-strategic-planning-project-data-preporation/blob/main/Business%20Performance%20%26%20Strategic%20Planning.zip) to view the prepartation for making these insights possible.
+
+-(Note: You are going to have to download this as a zip file to view the Jupyter Notebook and the clean CSV file. The size of the orignal file is just way to big to be displayed on me GitHub page.)
+
 # Countries (Markets) w Highest Revenue
 
 ### Click "Dashboard" to view interactive dashboard
