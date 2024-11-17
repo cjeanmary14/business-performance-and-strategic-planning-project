@@ -178,7 +178,15 @@
 
 -Here, we can see the demographics of each countries from the most popular items being bought, and the least popular items being bought.
 
+-This can provide better insights on which products are mostly being sold in each country.
+
 -Anongst all countries, "Set of Items" appear to be the most popular.
+
+-The bottom right represents the number of customers each group of item recieves giving that is their popularity. We clearly see that "Set of Items" is the most popular, and "Yellow Items" seem to be the least popular amongst all peoples in each country. It is also in order amongst all seven groups of items from most popular to least popular. We can perhaps focus on those that are not doing so great and do some research to figure out why is it not doing well. We need to figure why is our most popular group of items doing so well, and once we have that information, figure out if this info could applied to those that we are try to push.
+
+-The bottom left showcases a reference of each individual items grouped together to create these grouped items. 
+
+-The dashboard can also be filtered out to view the item demographic analytics of each country.
 
 
 # Top 5 Visiting Customers w Popularity of Items Bought per Customer
@@ -205,6 +213,14 @@
 [Dashboard](https://public.tableau.com/app/profile/chadwick.jeanmary/viz/OnlineRetailData_17034960484540/Dashboard9)
 
 ![image](https://github.com/user-attachments/assets/dfae89ca-fdd0-4cac-a994-21523f523266)
+
+-This here represents a prediction of how many customers can why expect to have in the upcoming year. Since customers are one of the key drivers that influence revenue growth, it's best to start there.
+
+-The blue represents the actual data and the pink represents the estimated data. And our blue line with are acyual data classified as the blue dots reads that it is almost as close to our prediction, giving it an R-Squared number of 87% out of 100%, just only a 12% difference, which almost as good, it is only a prediction. 
+
+-And it is clearly show a positive trend rate for the number of customers being recieved each month.
+
+-We can then compare the future months with the predicted numbers of customers that we are expected to have with the number of customers that we will actually going to have and evaluate to see if we met our expected number.
 
 
 
