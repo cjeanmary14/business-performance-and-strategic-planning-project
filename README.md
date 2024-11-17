@@ -222,5 +222,14 @@
 
 -We can then compare the future months with the predicted numbers of customers that we are expected to have with the number of customers that we will actually going to have and evaluate to see if we met our expected number.
 
+# Summary
+
+-After doing all the analysis, we can see that how the company is perfoeming is not doing so well overall. The UK has the biggest market, however their has been a steady decline and learned that is was mostly do to customer retention. We then learned that there were avtually no recorded data in the recent months, that being Nov, 2011 to Dec 2011 mostly in the mid-sized markets that then led to raised eyebrows. And we then took a look at those countries with store initially started but then have revenue plummit and shortly after, data was not available for the recent months.
+
+-We then took a look at some dempgraphic data of those being the items bought in popularity and customer demographics per region. We saw what is mostly selling and what is selling the least, which items generated the most revenue for the business in each respective country, and which customers bought which items again in their respective countries. Despite the business doing poorly when it comes to revenue growth, the number of customers are increasing by month with some drops compared the previous. And we learned that we are expected to revcieve more within the future months for 2012. But only time will tell.
+
+
+# Some Potential Recomendations
+
 
 
