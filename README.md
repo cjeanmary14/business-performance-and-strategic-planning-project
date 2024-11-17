@@ -173,7 +173,8 @@
 
 [Dashboard](https://public.tableau.com/app/profile/chadwick.jeanmary/viz/OnlineRetailData_17034960484540/Dashboard2)
 
-![image](https://github.com/user-attachments/assets/ddf53f4f-d97b-4527-be81-e13306494a8a)
+![image](https://github.com/user-attachments/assets/4349f72c-e7b9-493c-be7e-af2d6f7afa41)
+
 
 -Here, we can see the demographics of each countries from the most popular items being bought, and the least popular items being bought.
 
