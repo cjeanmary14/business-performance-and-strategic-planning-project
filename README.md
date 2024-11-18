@@ -231,5 +231,10 @@
 
 # Some Potential Recomendations
 
+-Focus more on the regions that are not performing well, and figure out why they are not doing so well. Is it because of preference, are there anything that customers like or dislike about a particular product, are there any competitors that are doing something better than us, etc. How can we make our things better.
+
+-Expand our business to more countries therefore will increase the number of customers which will affect revenue. Look at the revenue data as shown before where there were no recent data in the recent months. We don't know why that is, maybe the compnay stopped working or maybe it failed so it had shut down. Who knows? If that is the case, try not to make the same mistake.
+
+-When giving guidence to areas performing well, let's focus on our most frequently visiting customers within each country. It will be mostly likely that they will visit our store again. And focus more on marketing the most popular items bought per customer as chances are that they will be more likely to by that particular item.
 
 
