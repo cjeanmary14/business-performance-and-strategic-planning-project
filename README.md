@@ -50,6 +50,10 @@
 
 -The key takeaway here is that that UK is our biggest market and has the most revenue with over 1M pounds which trumps all of the other countries extremely.
 
+-Here we can get an idea of how much revenue each market is bringing in, and provides a great start to where we should focus which market (country) that we would like to improve.
+
+-Revenue trend is shown when hovering on the bar graph to show how each company is done financially
+
 
 # UK (Biggest Market) Revenue Analytics
 
