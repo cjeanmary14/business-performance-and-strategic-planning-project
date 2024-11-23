@@ -52,7 +52,7 @@
 
 -Here we can get an idea of how much revenue each market is bringing in, and provides a great start to where we should focus which market (country) that we would like to improve.
 
--Revenue trend is shown when hovering on the bar graph to show how each company is done financially
+-Revenue trend is shown when hovering on the bar graph to show how each company is doing financially.
 
 
 # UK (Biggest Market) Revenue Analytics
@@ -220,15 +220,15 @@
 
 -This here represents a prediction of how many customers can why expect to have in the upcoming year. Since customers are one of the key drivers that influence revenue growth, it's best to start there.
 
--The blue represents the actual data and the pink represents the estimated data. And our blue line with are acyual data classified as the blue dots reads that it is almost as close to our prediction, giving it an R-Squared number of 87% out of 100%, just only a 12% difference, which almost as good, it is only a prediction. 
+-The blue represents the actual data and the pink represents the estimated data. And our blue line with are acyual data classified as the blue dots reads that it is almost as close to our prediction, giving it an R-Squared percentage of 87% out of 100%, just only a 12% difference, which almost as good, it is only a prediction. 
 
--And it is clearly show a positive trend rate for the number of customers being recieved each month.
+-And it is clearly showing a positive trend rate for the number of customers being recieved each month.
 
 -We can then compare the future months with the predicted numbers of customers that we are expected to have with the number of customers that we will actually going to have and evaluate to see if we met our expected number.
 
 # Summary
 
--After doing all the analysis, we can see that how the company is perfoeming is not doing so well overall. The UK has the biggest market, however their has been a steady decline and learned that is was mostly do to customer retention. We then learned that there were avtually no recorded data in the recent months, that being Nov, 2011 to Dec 2011 mostly in the mid-sized markets that then led to raised eyebrows. And we then took a look at those countries with store initially started but then have revenue plummit and shortly after, data was not available for the recent months.
+-After doing all the analysis, we can see that how the company is perfoeming is not doing so well overall. The UK has the biggest market, however their has been a steady decline and learned that is was mostly due to the inadequate amount of customers. We then learned that there were avtually no recorded data in the recent months, that being Nov, 2011 to Dec, 2011 mostly in the mid-sized markets that then led to raised eyebrows. And we then took a look at those countries with store initially started but then have revenue plummit and shortly after, data was not available for the recent months.
 
 -We then took a look at some dempgraphic data of those being the items bought in popularity and customer demographics per region. We saw what is mostly selling and what is selling the least, which items generated the most revenue for the business in each respective country, and which customers bought which items again in their respective countries. Despite the business doing poorly when it comes to revenue growth, the number of customers are increasing by month with some drops compared the previous. And we learned that we are expected to revcieve more within the future months for 2012. But only time will tell.
 
@@ -237,7 +237,7 @@
 
 -Focus more on the regions that are not performing well, and figure out why they are not doing so well. Is it because of preference, are there anything that customers like or dislike about a particular product, are there any competitors that are doing something better than us, etc. How can we make our things better.
 
--Expand our business to more countries therefore will increase the number of customers which will affect revenue. Look at the revenue data as shown before where there were no recent data in the recent months. We don't know why that is, maybe the compnay stopped working or maybe it failed so it had shut down. Who knows? If that is the case, try not to make the same mistake.
+-Expand our business to more countries therefore will increase the number of customers which will affect revenue. Look at the revenue data as shown before where there were no recent data in the recent months. We don't know why that is, maybe the compnay stopped working or maybe it failed so it had shut down. Who knows? If that is the case, try not to make the same mistake when looking to market products to potential buyers. Look at what they like first before before applying marketing tactics and branding services.
 
 -When giving guidence to areas performing well, let's focus on our most frequently visiting customers within each country. It will be mostly likely that they will visit our store again. And focus more on marketing the most popular items bought per customer as chances are that they will be more likely to by that particular item.
 
